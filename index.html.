@@ -1,122 +1,169 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Trill B (TRB) – Pure Meme Coin</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      line-height: 1.6;
+      background-color: #fafafa;
+      color: #222;
       margin: 0;
-      padding: 0;
-      background-color: #fdfdfd;
-      color: #111;
+      padding: 0 1rem;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+      line-height: 1.6;
     }
     header {
-      background-color: #000;
-      color: #fff;
-      padding: 2rem;
+      background-color: #111;
+      color: white;
       text-align: center;
+      padding: 2rem 1rem;
+      margin-bottom: 2rem;
     }
-    main {
-      padding: 2rem;
-      max-width: 900px;
-      margin: auto;
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.2rem;
+      margin-top: 0.5rem;
+      font-style: italic;
     }
     section {
       margin-bottom: 2rem;
     }
-    h1, h2, h3 {
-      color: #222;
+    h2 {
+      border-bottom: 2px solid #222;
+      padding-bottom: 0.3rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      list-style-type: disc;
+      margin-left: 1.5rem;
     }
     .highlight {
       background-color: #eee;
+      border-left: 6px solid #111;
       padding: 1rem;
-      border-left: 4px solid #111;
+      margin-bottom: 2rem;
+    }
+    code {
+      background-color: #ddd;
+      padding: 0.1rem 0.3rem;
+      border-radius: 3px;
+      font-family: monospace;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem 0;
+      border-top: 1px solid #ccc;
+      font-size: 0.9rem;
+      color: #666;
     }
   </style>
 </head>
 <body>
-  <header>
-    <h1>Trill B (TRB)</h1>
-    <p>No Whales. No Rug. Just True Value.</p>
-  </header>
-  <main>
-    <section>
-      <h2>🔍 About Trill B</h2>
-      <p>
-        Trill B (TRB) is an experimental meme coin designed with a radical and uncompromising philosophy. Out of the total supply of <strong>19,940,303 TRB</strong>, an overwhelming <strong>75%</strong> (14,955,227.25 TRB) was sent to the null address <code>0x000...0000</code> at inception — permanently burned and forever inaccessible.
-      </p>
-      <p>
-        The remaining <strong>4,984,409.09 TRB</strong> will be distributed in phases:
+
+<header>
+  <h1>Trill B (TRB)</h1>
+  <p>No Whales. No Rug. Just True Value.</p>
+</header>
+
+<main>
+  <section>
+    <h2>💠 What is Trill B (TRB)?</h2>
+    <p>
+      Trill B is an experimental meme coin with a radical approach: no social media, no airdrops, no empty promises, and no market manipulation. Trill B is designed to be scarce, transparent, and fully decentralized.
+    </p>
+  </section>
+
+  <section>
+    <h2>🔥 Tokenomics:</h2>
+    <ul>
+      <li><strong>Total Supply:</strong> 19,940,303 TRB</li>
+      <li><strong>75% Permanently Burned:</strong> 14,955,227.25 TRB sent to the null address</li>
+      <li><strong>Circulating Plan:</strong>
         <ul>
-          <li>📈 <strong>666.66 TRB</strong> listed on DEX</li>
-          <li>🔒 <strong>4,000,000 TRB</strong> locked until March 3, 2030</li>
-          <li>🔓 <strong>984,315 TRB</strong> locked and released in 3 vesting stages</li>
+          <li>666.66 TRB marketed on DEX</li>
+          <li>4,000,000 TRB locked until 03/03/2030</li>
+          <li>984,315 TRB locked & released in 3 stages</li>
         </ul>
-        A gradual burning strategy will continue until only a few hundred thousand TRB remain, preserving scarcity and enhancing long-term price potential.
-      </p>
-    </section>
+      </li>
+      <li><strong>Advanced Burn Strategy:</strong> Supply will be gradually burned until only a few hundred thousand TRB remain to maintain scarcity and exceptional price potential.</li>
+    </ul>
+  </section>
 
-    <section>
-      <h2>🔥 Tokenomics</h2>
-      <ul>
-        <li><strong>Total Supply:</strong> 19,940,303 TRB</li>
-        <li><strong>Burned Forever:</strong> 14,955,227.25 TRB (75%)</li>
-        <li><strong>Remaining Supply Breakdown:</strong>
-          <ul>
-            <li>666.66 TRB listed on DEX</li>
-            <li>4,000,000 TRB locked until March 3, 2030</li>
-            <li>984,315 TRB subject to structured vesting</li>
-          </ul>
-        </li>
-        <li><strong>Deflationary Strategy:</strong> Continuous burns to reduce supply to below 1 million TRB</li>
-      </ul>
-    </section>
+  <section>
+    <h2>🚫 What We Don’t Need:</h2>
+    <ul>
+      <li>Greedy whales</li>
+      <li>Fake Telegram groups</li>
+      <li>Bombastic roadmap promises</li>
+      <li>Quick-profit airdrop hunters</li>
+    </ul>
+  </section>
 
-    <section>
-      <h2>🚫 We Avoid:</h2>
-      <ul>
-        <li>❌ Greedy whales</li>
-        <li>❌ Fake Telegram groups</li>
-        <li>❌ Empty marketing promises</li>
-        <li>❌ Flashy airdrops for hype</li>
-      </ul>
-    </section>
+  <section>
+    <h2>✅ What We Stand For:</h2>
+    <ul>
+      <li>Honest deflationary mechanisms</li>
+      <li>Absolute transparency</li>
+      <li>Open access without centralized control</li>
+    </ul>
+  </section>
 
-    <section>
-      <h2>✅ We Stand For:</h2>
-      <ul>
-        <li>✅ Transparent deflationary tokenomics</li>
-        <li>✅ Absolute on-chain verifiability</li>
-        <li>✅ Open-access project with zero centralized control</li>
-      </ul>
-    </section>
+  <section class="highlight">
+    <h2>💬 Official Slogan:</h2>
+    <p><em>"Trill B – No whales. No cheap hype. No manipulation – No Whale, No Rug, Just True Value."</em></p>
+  </section>
 
-    <section class="highlight">
-      <h3>📜 Mini Whitepaper</h3>
-      <p>
-        Trill B (TRB) is a decentralized meme coin experiment built to challenge the norm. With no roadmap, no social media, and no central promotion team, it focuses solely on transparency, scarcity, and natural adoption. The token supply is burned massively from the beginning, with the remainder locked, vested, and slowly released under strict transparency. There is no marketing gimmick here—only raw, unfiltered crypto culture.
-      </p>
-    </section>
+  <section>
+    <h2>🎨 Promo Banner Text (Ready for images/posts):</h2>
+    <pre style="background:#222;color:#eee;padding:1rem;border-radius:5px;">
+🔥 Introducing: Trill B (TRB) 🔥
+Total Supply: 19,940,303 TRB
+✅ 75% Permanently Burned
+✅ No Whales, No Airdrops
+✅ 666 TRB DEX Launch
+✅ 4M Locked Until 2030 + Gradual Burn Strategy
 
-    <section>
-      <h2>🔗 Key Details</h2>
-      <p><strong>Token Contract:</strong> <code>0x75277eC19389e1351DE6D575090FEf8698da12Ce</code></p>
-      <p><strong>DEX Listing:</strong> 666 TRB (initial liquidity)</p>
-      <p><strong>Token Locks/Vesting:</strong> Verified via blockchain explorers or trusted locker platforms</p>
-    </section>
+🧠 The Cleanest and Most Transparent Meme Coin Experiment
 
-    <section>
-      <h2>📢 Promo Banner Text</h2>
-      <p><strong>🔥 Introducing: Trill B (TRB)</strong><br>
-      ✅ 75% Supply Permanently Burned<br>
-      ✅ No Whales, No Airdrops, No Hype<br>
-      ✅ 666 TRB Listed on DEX<br>
-      ✅ 4M TRB Locked Until 2030 + Ongoing Burn Plan<br>
-      💎 Trill B – No Whale, No Rug, Just True Value</p>
-    </section>
-  </main>
+🚫 No Fake Roadmaps
+🚫 No Spam Groups
+🚫 No Centralized Control
+
+💎 Trill B – No Whale, No Rug, Just True Value
+    </pre>
+  </section>
+
+  <section>
+    <h2>📱 Telegram / DexTools Caption:</h2>
+    <pre style="background:#222;color:#eee;padding:1rem;border-radius:5px;">
+Trill B (TRB) is born!
+
+💠 Total 19,940,303 TRB
+🔥 75% Supply permanently burned
+🔒 4M locked until 03/03/2030
+📈 666.66 TRB listed on DEX
+🔥 Gradual burns until only a few hundred thousand TRB remain!
+
+No whales. No cheap hype. No manipulation.
+
+💎 Trill B – No Whale, No Rug, Just True Value
+
+🔍 Contract: [0x75277eC19389e1351DE6D575090FEf8698da12Ce]
+🌐 Website: [IF AVAILABLE]
+    </pre>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 Trill B. All rights reserved.
+</footer>
+
 </body>
 </html>
