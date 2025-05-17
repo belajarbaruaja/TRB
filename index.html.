@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Trill B (TRB) – Pure Meme Coin</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #fdfdfd;
+      color: #111;
+    }
+    header {
+      background-color: #000;
+      color: #fff;
+      padding: 2rem;
+      text-align: center;
+    }
+    main {
+      padding: 2rem;
+      max-width: 900px;
+      margin: auto;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h1, h2, h3 {
+      color: #222;
+    }
+    .highlight {
+      background-color: #eee;
+      padding: 1rem;
+      border-left: 4px solid #111;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Trill B (TRB)</h1>
+    <p>No Whales. No Rug. Just True Value.</p>
+  </header>
+  <main>
+    <section>
+      <h2>🔍 About Trill B</h2>
+      <p>
+        Trill B (TRB) is an experimental meme coin designed with a radical and uncompromising philosophy. Out of the total supply of <strong>19,940,303 TRB</strong>, an overwhelming <strong>75%</strong> (14,955,227.25 TRB) was sent to the null address <code>0x000...0000</code> at inception — permanently burned and forever inaccessible.
+      </p>
+      <p>
+        The remaining <strong>4,984,409.09 TRB</strong> will be distributed in phases:
+        <ul>
+          <li>📈 <strong>666.66 TRB</strong> listed on DEX</li>
+          <li>🔒 <strong>4,000,000 TRB</strong> locked until March 3, 2030</li>
+          <li>🔓 <strong>984,315 TRB</strong> locked and released in 3 vesting stages</li>
+        </ul>
+        A gradual burning strategy will continue until only a few hundred thousand TRB remain, preserving scarcity and enhancing long-term price potential.
+      </p>
+    </section>
+
+    <section>
+      <h2>🔥 Tokenomics</h2>
+      <ul>
+        <li><strong>Total Supply:</strong> 19,940,303 TRB</li>
+        <li><strong>Burned Forever:</strong> 14,955,227.25 TRB (75%)</li>
+        <li><strong>Remaining Supply Breakdown:</strong>
+          <ul>
+            <li>666.66 TRB listed on DEX</li>
+            <li>4,000,000 TRB locked until March 3, 2030</li>
+            <li>984,315 TRB subject to structured vesting</li>
+          </ul>
+        </li>
+        <li><strong>Deflationary Strategy:</strong> Continuous burns to reduce supply to below 1 million TRB</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>🚫 We Avoid:</h2>
+      <ul>
+        <li>❌ Greedy whales</li>
+        <li>❌ Fake Telegram groups</li>
+        <li>❌ Empty marketing promises</li>
+        <li>❌ Flashy airdrops for hype</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>✅ We Stand For:</h2>
+      <ul>
+        <li>✅ Transparent deflationary tokenomics</li>
+        <li>✅ Absolute on-chain verifiability</li>
+        <li>✅ Open-access project with zero centralized control</li>
+      </ul>
+    </section>
+
+    <section class="highlight">
+      <h3>📜 Mini Whitepaper</h3>
+      <p>
+        Trill B (TRB) is a decentralized meme coin experiment built to challenge the norm. With no roadmap, no social media, and no central promotion team, it focuses solely on transparency, scarcity, and natural adoption. The token supply is burned massively from the beginning, with the remainder locked, vested, and slowly released under strict transparency. There is no marketing gimmick here—only raw, unfiltered crypto culture.
+      </p>
+    </section>
+
+    <section>
+      <h2>🔗 Key Details</h2>
+      <p><strong>Token Contract:</strong> <code>0x75277eC19389e1351DE6D575090FEf8698da12Ce</code></p>
+      <p><strong>DEX Listing:</strong> 666 TRB (initial liquidity)</p>
+      <p><strong>Token Locks/Vesting:</strong> Verified via blockchain explorers or trusted locker platforms</p>
+    </section>
+
+    <section>
+      <h2>📢 Promo Banner Text</h2>
+      <p><strong>🔥 Introducing: Trill B (TRB)</strong><br>
+      ✅ 75% Supply Permanently Burned<br>
+      ✅ No Whales, No Airdrops, No Hype<br>
+      ✅ 666 TRB Listed on DEX<br>
+      ✅ 4M TRB Locked Until 2030 + Ongoing Burn Plan<br>
+      💎 Trill B – No Whale, No Rug, Just True Value</p>
+    </section>
+  </main>
+</body>
+</html>
